@@ -1,3 +1,13 @@
+# Ignore file with CLIENT_ID and CLIENT_SECRET
+api_info.json
+
+# SuperCycle database
+*.scbak
+
+# Output dir with GPX files
+rides_gpx_*/
+
+# Python gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
