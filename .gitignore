@@ -4,8 +4,11 @@ api_info.json
 # SuperCycle database
 *.scbak
 
-# Output dir with GPX files
-rides_gpx_*/
+# Zeopoxa database
+*.db
+
+# Output directories with GPX files (from SuperCycle)
+rides*/
 
 # Python gitignore
 # Byte-compiled / optimized / DLL files
